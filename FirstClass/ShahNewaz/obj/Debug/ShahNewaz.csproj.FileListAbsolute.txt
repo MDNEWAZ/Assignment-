@@ -1,0 +1,10 @@
+c:\users\shahadot\documents\visual studio 2013\Projects\ShahNewaz\ShahNewaz\bin\Debug\ShahNewaz.exe.config
+c:\users\shahadot\documents\visual studio 2013\Projects\ShahNewaz\ShahNewaz\bin\Debug\ShahNewaz.exe
+c:\users\shahadot\documents\visual studio 2013\Projects\ShahNewaz\ShahNewaz\bin\Debug\ShahNewaz.pdb
+c:\users\shahadot\documents\visual studio 2013\Projects\ShahNewaz\ShahNewaz\obj\Debug\ShahNewaz.csprojResolveAssemblyReference.cache
+c:\users\shahadot\documents\visual studio 2013\Projects\ShahNewaz\ShahNewaz\obj\Debug\ShahNewaz.exe
+c:\users\shahadot\documents\visual studio 2013\Projects\ShahNewaz\ShahNewaz\obj\Debug\ShahNewaz.pdb
+E:\ClassesJalalSir\ShahNewaz\ShahNewaz\obj\Debug\ShahNewaz.csprojAssemblyReference.cache
+E:\ClassesJalalSir\ShahNewaz\ShahNewaz\obj\Debug\ShahNewaz.csproj.CoreCompileInputs.cache
+E:\ClassesJalalSir\ShahNewaz\ShahNewaz\obj\Debug\ShahNewaz.exe
+E:\ClassesJalalSir\ShahNewaz\ShahNewaz\obj\Debug\ShahNewaz.pdb
