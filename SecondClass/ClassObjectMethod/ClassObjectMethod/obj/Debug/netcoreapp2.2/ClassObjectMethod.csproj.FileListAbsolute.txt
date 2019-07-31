@@ -1,0 +1,11 @@
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\bin\Debug\netcoreapp2.2\ClassObjectMethod.deps.json
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\bin\Debug\netcoreapp2.2\ClassObjectMethod.runtimeconfig.json
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\bin\Debug\netcoreapp2.2\ClassObjectMethod.runtimeconfig.dev.json
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\bin\Debug\netcoreapp2.2\ClassObjectMethod.dll
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\bin\Debug\netcoreapp2.2\ClassObjectMethod.pdb
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\obj\Debug\netcoreapp2.2\ClassObjectMethod.csprojAssemblyReference.cache
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\obj\Debug\netcoreapp2.2\ClassObjectMethod.csproj.CoreCompileInputs.cache
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\obj\Debug\netcoreapp2.2\ClassObjectMethod.AssemblyInfoInputs.cache
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\obj\Debug\netcoreapp2.2\ClassObjectMethod.AssemblyInfo.cs
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\obj\Debug\netcoreapp2.2\ClassObjectMethod.dll
+E:\ClassesJalalSir\ClassObjectMethod\ClassObjectMethod\obj\Debug\netcoreapp2.2\ClassObjectMethod.pdb
