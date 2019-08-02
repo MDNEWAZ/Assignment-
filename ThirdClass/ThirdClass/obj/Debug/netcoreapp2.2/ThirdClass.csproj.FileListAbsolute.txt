@@ -1,0 +1,11 @@
+E:\ClassesJalalSir\ThirdClass\ThirdClass\bin\Debug\netcoreapp2.2\ThirdClass.deps.json
+E:\ClassesJalalSir\ThirdClass\ThirdClass\bin\Debug\netcoreapp2.2\ThirdClass.runtimeconfig.json
+E:\ClassesJalalSir\ThirdClass\ThirdClass\bin\Debug\netcoreapp2.2\ThirdClass.runtimeconfig.dev.json
+E:\ClassesJalalSir\ThirdClass\ThirdClass\bin\Debug\netcoreapp2.2\ThirdClass.dll
+E:\ClassesJalalSir\ThirdClass\ThirdClass\bin\Debug\netcoreapp2.2\ThirdClass.pdb
+E:\ClassesJalalSir\ThirdClass\ThirdClass\obj\Debug\netcoreapp2.2\ThirdClass.csprojAssemblyReference.cache
+E:\ClassesJalalSir\ThirdClass\ThirdClass\obj\Debug\netcoreapp2.2\ThirdClass.csproj.CoreCompileInputs.cache
+E:\ClassesJalalSir\ThirdClass\ThirdClass\obj\Debug\netcoreapp2.2\ThirdClass.AssemblyInfoInputs.cache
+E:\ClassesJalalSir\ThirdClass\ThirdClass\obj\Debug\netcoreapp2.2\ThirdClass.AssemblyInfo.cs
+E:\ClassesJalalSir\ThirdClass\ThirdClass\obj\Debug\netcoreapp2.2\ThirdClass.dll
+E:\ClassesJalalSir\ThirdClass\ThirdClass\obj\Debug\netcoreapp2.2\ThirdClass.pdb
