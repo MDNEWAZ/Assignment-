@@ -1,0 +1,11 @@
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.2\BreakSimulator.deps.json
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.2\BreakSimulator.runtimeconfig.json
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.2\BreakSimulator.runtimeconfig.dev.json
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.2\BreakSimulator.dll
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.2\BreakSimulator.pdb
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.2\BreakSimulator.csprojAssemblyReference.cache
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.2\BreakSimulator.csproj.CoreCompileInputs.cache
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.2\BreakSimulator.AssemblyInfoInputs.cache
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.2\BreakSimulator.AssemblyInfo.cs
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.2\BreakSimulator.dll
+E:\ClassesJalalSir\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.2\BreakSimulator.pdb
