@@ -1,0 +1,4 @@
+E:\All_WORK\DCP_483_Mr.Typical\DCP_483_Mr.Typical\obj\Debug\netcoreapp2.2\DCP_483_Mr.Typical.csprojAssemblyReference.cache
+E:\All_WORK\DCP_483_Mr.Typical\DCP_483_Mr.Typical\obj\Debug\netcoreapp2.2\DCP_483_Mr.Typical.csproj.CoreCompileInputs.cache
+E:\All_WORK\DCP_483_Mr.Typical\DCP_483_Mr.Typical\obj\Debug\netcoreapp2.2\DCP_483_Mr.Typical.AssemblyInfoInputs.cache
+E:\All_WORK\DCP_483_Mr.Typical\DCP_483_Mr.Typical\obj\Debug\netcoreapp2.2\DCP_483_Mr.Typical.AssemblyInfo.cs

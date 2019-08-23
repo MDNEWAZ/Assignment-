@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCP_194_NumberFormatting", "DCP_194_NumberFormatting\DCP_194_NumberFormatting.csproj", "{974FFA21-7812-437A-A244-1A66C75E2F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974FFA21-7812-437A-A244-1A66C75E2F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974FFA21-7812-437A-A244-1A66C75E2F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974FFA21-7812-437A-A244-1A66C75E2F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974FFA21-7812-437A-A244-1A66C75E2F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D57820-F924-488E-87A7-032B92164B6E}
+	EndGlobalSection
+EndGlobal

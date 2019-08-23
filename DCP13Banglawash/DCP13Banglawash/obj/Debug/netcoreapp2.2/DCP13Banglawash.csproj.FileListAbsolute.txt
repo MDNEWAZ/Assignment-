@@ -1,0 +1,11 @@
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\bin\Debug\netcoreapp2.2\DCP13Banglawash.deps.json
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\bin\Debug\netcoreapp2.2\DCP13Banglawash.runtimeconfig.json
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\bin\Debug\netcoreapp2.2\DCP13Banglawash.runtimeconfig.dev.json
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\bin\Debug\netcoreapp2.2\DCP13Banglawash.dll
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\bin\Debug\netcoreapp2.2\DCP13Banglawash.pdb
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\obj\Debug\netcoreapp2.2\DCP13Banglawash.csprojAssemblyReference.cache
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\obj\Debug\netcoreapp2.2\DCP13Banglawash.csproj.CoreCompileInputs.cache
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\obj\Debug\netcoreapp2.2\DCP13Banglawash.AssemblyInfoInputs.cache
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\obj\Debug\netcoreapp2.2\DCP13Banglawash.AssemblyInfo.cs
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\obj\Debug\netcoreapp2.2\DCP13Banglawash.dll
+E:\All_WORK\DCP13Banglawash\DCP13Banglawash\obj\Debug\netcoreapp2.2\DCP13Banglawash.pdb

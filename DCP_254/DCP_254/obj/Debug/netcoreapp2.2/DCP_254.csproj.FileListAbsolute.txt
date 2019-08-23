@@ -1,0 +1,11 @@
+E:\All_WORK\DCP_254\DCP_254\bin\Debug\netcoreapp2.2\DCP_254.deps.json
+E:\All_WORK\DCP_254\DCP_254\bin\Debug\netcoreapp2.2\DCP_254.runtimeconfig.json
+E:\All_WORK\DCP_254\DCP_254\bin\Debug\netcoreapp2.2\DCP_254.runtimeconfig.dev.json
+E:\All_WORK\DCP_254\DCP_254\bin\Debug\netcoreapp2.2\DCP_254.dll
+E:\All_WORK\DCP_254\DCP_254\bin\Debug\netcoreapp2.2\DCP_254.pdb
+E:\All_WORK\DCP_254\DCP_254\obj\Debug\netcoreapp2.2\DCP_254.csprojAssemblyReference.cache
+E:\All_WORK\DCP_254\DCP_254\obj\Debug\netcoreapp2.2\DCP_254.csproj.CoreCompileInputs.cache
+E:\All_WORK\DCP_254\DCP_254\obj\Debug\netcoreapp2.2\DCP_254.AssemblyInfoInputs.cache
+E:\All_WORK\DCP_254\DCP_254\obj\Debug\netcoreapp2.2\DCP_254.AssemblyInfo.cs
+E:\All_WORK\DCP_254\DCP_254\obj\Debug\netcoreapp2.2\DCP_254.dll
+E:\All_WORK\DCP_254\DCP_254\obj\Debug\netcoreapp2.2\DCP_254.pdb

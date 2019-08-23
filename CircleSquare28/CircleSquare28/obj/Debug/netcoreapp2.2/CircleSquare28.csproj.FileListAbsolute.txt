@@ -1,0 +1,11 @@
+E:\All_WORK\CircleSquare28\CircleSquare28\bin\Debug\netcoreapp2.2\CircleSquare28.deps.json
+E:\All_WORK\CircleSquare28\CircleSquare28\bin\Debug\netcoreapp2.2\CircleSquare28.runtimeconfig.json
+E:\All_WORK\CircleSquare28\CircleSquare28\bin\Debug\netcoreapp2.2\CircleSquare28.runtimeconfig.dev.json
+E:\All_WORK\CircleSquare28\CircleSquare28\bin\Debug\netcoreapp2.2\CircleSquare28.dll
+E:\All_WORK\CircleSquare28\CircleSquare28\bin\Debug\netcoreapp2.2\CircleSquare28.pdb
+E:\All_WORK\CircleSquare28\CircleSquare28\obj\Debug\netcoreapp2.2\CircleSquare28.csprojAssemblyReference.cache
+E:\All_WORK\CircleSquare28\CircleSquare28\obj\Debug\netcoreapp2.2\CircleSquare28.csproj.CoreCompileInputs.cache
+E:\All_WORK\CircleSquare28\CircleSquare28\obj\Debug\netcoreapp2.2\CircleSquare28.AssemblyInfoInputs.cache
+E:\All_WORK\CircleSquare28\CircleSquare28\obj\Debug\netcoreapp2.2\CircleSquare28.AssemblyInfo.cs
+E:\All_WORK\CircleSquare28\CircleSquare28\obj\Debug\netcoreapp2.2\CircleSquare28.dll
+E:\All_WORK\CircleSquare28\CircleSquare28\obj\Debug\netcoreapp2.2\CircleSquare28.pdb
